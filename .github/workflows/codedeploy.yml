@@ -2,6 +2,11 @@
 
 name: CI
 
+#https://github.com/aws-actions/configure-aws-credentials/issues/271#issuecomment-1310334193
+permissions:
+  id-token: write
+  contents: read
+
 env:
   BUCKET_REGION: eu-west-1
   
