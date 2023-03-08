@@ -31,5 +31,5 @@ jobs:
       - uses: aws-actions/configure-aws-credentials@v1
         with:
           role-to-assume: ${{ secrets.IAMROLE_GITHUB }}
-          role-session-name: GitHub-Action-Role
+          role-session-name: mycvs3role
           aws-region: ${{ env.BUCKET_REGION }}
