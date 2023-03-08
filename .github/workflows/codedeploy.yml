@@ -32,4 +32,4 @@ jobs:
         with:
           role-to-assume: ${{ secrets.IAMROLE_GITHUB }}
           role-session-name: GitHub-Action-Role
-          aws-region: ${{ env.AWS_REGION }}
+          aws-region: ${{ env.BUCKET_REGION }}
