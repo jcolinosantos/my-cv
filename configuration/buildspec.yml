@@ -3,7 +3,8 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo "Hola"
+      - dnf install hugo -y
+      - hugo
 artifacts:
   files:
-    - README.md
+    - public/
