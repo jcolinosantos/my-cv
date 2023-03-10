@@ -9,4 +9,5 @@ phases:
       - ./hugo
 artifacts:
   files:
-    - public/*
+    - '**/*'
+  base-directory: 'public'
