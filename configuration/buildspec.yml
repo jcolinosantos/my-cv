@@ -3,12 +3,10 @@ version: 0.2
 phases:
   build:
     commands:
-      - pwd
-      - ls
       - yum install tar gzip -y
       - curl -L -O https://github.com/gohugoio/hugo/releases/download/v0.111.2/hugo_0.111.2_linux-arm64.tar.gz
       - tar xvpf hugo_0.111.2_linux-arm64.tar.gz
       - ./hugo
 artifacts:
   files:
-    - public/*.*
+    - public/*
