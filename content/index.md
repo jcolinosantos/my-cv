@@ -7,11 +7,10 @@ He invertido tiempo en familiarizarme con sistemas operativos GNU/Linux. Actualm
 
 Preparo el examen para obtener la certificación AWS Certified Solutions Architect. Estoy desarrollando varios proyectos personales con el objetivo de afianzar los conocimientos adquiridos en el estudio de la certificación. 
 
-Esta página web está alojada en GitHub y desplegada en AWS utilizando CodePipelines. (enlace a blog o readme de github)
+Esta página web está alojada en [GitHub](https://github.com/jcolinosantos/my-cv)  y desplegada en AWS utilizando CodePipelines.
 
 En un futuro cercano, me gustaría obtener la certificación de Red Hat Certified System Administrator (RHCSA®)
 
-[Proyecto Serato Raspberry]
 
     Formación y vida laboral
 
