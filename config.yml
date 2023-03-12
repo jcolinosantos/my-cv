@@ -1,0 +1,10 @@
+baseURL: "http://example.org/"
+languageCode: "es-ES"
+title: "Café GRATIS"
+theme: "PaperMod"
+
+menu:
+  main:
+    - name: Música
+      url: musica
+      weight: 1
