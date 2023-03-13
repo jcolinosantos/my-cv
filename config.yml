@@ -8,3 +8,5 @@ menu:
     - name: Música
       url: musica
       weight: 1
+params:
+  hideFooter: true
