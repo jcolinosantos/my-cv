@@ -56,4 +56,8 @@ I registered a domain using Route53. Then I pointed the Alias registry to the S3
 
 AWS CloudFront:
 
-Route 53 only provides domains. The static web hosting propierty only supports HTTP. In order to provide a HTTPS connection to my website, I requested a new certificate and created a CloudFront distribution.
+Route 53 only provides domains. The static web hosting propierty only supports HTTP. In order to provide a HTTPS connection to my website, I requested a new certificate and created a CloudFront distribution. 
+
+CloudFront provides a new bucket policy that should be updated in S3. 
+
+I also created a new CNAME registry in the hosted zone to properly validate the SSL certificate. And an A registry to link Route 53 with the CloudFront distribution. 
