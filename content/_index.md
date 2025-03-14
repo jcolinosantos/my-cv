@@ -3,7 +3,8 @@
  
 > ¿Qué estoy haciendo ahora?
 
-He invertido tiempo en familiarizarme con sistemas operativos GNU/Linux. Actualmente, utilizo Fedora 37 en mi ordenador personal. 
+Acabo de obtener un certificado de profesionalidad en Programación con lenguajes orientados a objetos y bases de datos relacionales (Java y SQL).
+He invertido tiempo en familiarizarme con sistemas operativos GNU/Linux. Actualmente, utilizo Fedora 41 en mi ordenador personal. 
 
 Preparo el examen para obtener la certificación AWS Certified Solutions Architect. Estoy desarrollando varios proyectos personales con el objetivo de afianzar los conocimientos adquiridos en el estudio de la certificación. 
 
