@@ -1,15 +1,15 @@
 baseURL: "https://jcolinosantos.com"
-languageCode: "es-ES"
 title: "Café GRATIS"
 theme: "PaperMod"
 
-  #menu:
-  #  main:
-  #    - name: Home
-  #      url: /
-  #      weight: 1
-  #    - name: Música
-  #      url: musica
-  #      weight: 2
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Música
+      url: musica
+      weight: 2
 params:
   hideFooter: true
+
