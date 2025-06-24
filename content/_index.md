@@ -1,5 +1,5 @@
 # Hola, soy Jesús Colino. 
-# /\*Quiero desarrollar una nueva carrera profesional en el sector IT como DevOps.\*/
+# Quiero desarrollar una nueva carrera profesional en el sector IT como DevOps.
  
 > ¿Qué estoy haciendo ahora?
 
