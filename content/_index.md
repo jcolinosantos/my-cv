@@ -4,7 +4,9 @@
 > ¿Qué estoy haciendo ahora?
 
 Acabo de obtener un certificado de profesionalidad en Programación con lenguajes orientados a objetos y bases de datos relacionales (Java y SQL).
-He invertido tiempo en familiarizarme con sistemas operativos GNU/Linux. Actualmente, utilizo Fedora 41 en mi ordenador personal. 
+He invertido tiempo en familiarizarme con sistemas operativos GNU/Linux. Actualmente, utilizo Fedora 42 en mi ordenador personal.
+
+He realizado prácticas en Integra Energía, utilizando Rubi on Rails, JQuery y AJAX. 
 
 Preparo el examen para obtener la certificación AWS Certified Solutions Architect. Estoy desarrollando varios proyectos personales con el objetivo de afianzar los conocimientos adquiridos en el estudio de la certificación. 
 
@@ -15,7 +17,7 @@ En un futuro cercano, me gustaría obtener la certificación de Red Hat Certifie
 
     Formación y vida laboral
 
-Compagino mis estudios actuales con el trabajo de técnico de sonido (cansado de cables, quiero ir a la nube), alternando desde hace más de una década  el trabajo de directo con el de estudio de grabación.
+Compagino mis estudios actuales de cloud computing con el trabajo de técnico de sonido (cansado de cables, quiero ir a la nube), alternando desde hace más de una década el trabajo de directo con el de estudio de grabación.
 
 En 2012 abrí [Café Paraíso](https://www.instagram.com/elcafeparaiso).
 En ese momento estaba despegando el concepto de “Specialty Coffee” en España, y fueron años de mucho trabajo y mucho aprendizaje, tanto en los aspectos más técnicos en lo relativo a la preparación de café, cócteles y hostelería en general, como en lo relativo a gestión de equipos, atención al cliente y liderazgo. Café Paraíso cerró en 2019.
